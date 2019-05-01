@@ -69,3 +69,20 @@ li {
     height: 400px;
 }
 
+/* -----------TUYENDUNG.HTML-------------- */
+select option[disabled]:first-child {
+    display: none;
+}
+
+.el-tag--gray {
+    background-color: #e4e8f1;
+    border-color: #e4e8f1;
+    color: #48576a;
+}
+
+.el-tag {
+    height: 24px;
+    font-size: 12px;
+    border-radius: 4px;
+    border: 1px solid transparent;
+}
